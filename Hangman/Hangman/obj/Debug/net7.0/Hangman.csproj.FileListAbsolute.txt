@@ -1,0 +1,15 @@
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/bin/Debug/net7.0/Hangman
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/bin/Debug/net7.0/Hangman.deps.json
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/bin/Debug/net7.0/Hangman.runtimeconfig.json
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/bin/Debug/net7.0/Hangman.dll
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/bin/Debug/net7.0/Hangman.pdb
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/obj/Debug/net7.0/Hangman.csproj.AssemblyReference.cache
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/obj/Debug/net7.0/Hangman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/obj/Debug/net7.0/Hangman.AssemblyInfoInputs.cache
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/obj/Debug/net7.0/Hangman.AssemblyInfo.cs
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/obj/Debug/net7.0/Hangman.csproj.CoreCompileInputs.cache
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/obj/Debug/net7.0/Hangman.dll
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/obj/Debug/net7.0/refint/Hangman.dll
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/obj/Debug/net7.0/Hangman.pdb
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/obj/Debug/net7.0/Hangman.genruntimeconfig.cache
+/Users/suzanne/Projects/Hangman-project/Hangman/Hangman/obj/Debug/net7.0/ref/Hangman.dll
