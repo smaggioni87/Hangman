@@ -5,29 +5,30 @@ class Program
 
     static void Main(string[] args)
     {
-        Random rng = new Random();
-        string availableLetters = ""; //make an array of letters to choose from
+        string blankWord = "_ _ _ _ _";
         string lettersAlreadyUsed = ""; //array of letters already used
-        string guessThisWord = "_ _ _ _ _";
 
-        List<string> wordBank = new List<string>();
-        {
-            wordBank.Add("think");
-            wordBank.Add("flame");
-            wordBank.Add("train");
-            wordBank.Add("clean");
-            wordBank.Add("great");
-        }
+        
+        List<string> wordBank = new List<string>() {"think", "flame", "train", "clean", "great"};
+
+        //Random word from list - Will need to go in a loop
+        Random rng = new Random();
+        int randomListItem = rng.Next(wordBank.Count);
 
         Console.WriteLine("Let's play hangman!");
-        Console.WriteLine(guessThisWord);
+        Console.WriteLine(blankWord);
         Console.Write($"Guess a letter. You have made # incorrect guesses. Only # wrong guesses remaining."); //Needs variables to track number of guesses left.
         Console.WriteLine($"You have already used these letters: {lettersAlreadyUsed}");
         string userGuess = Console.ReadLine();
 
+        Console.WriteLine(wordBank[randomListItem]);
 
-        //Random word from list - Will need to go in a loop
-        int randomListItem = rng.Next(wordBank.Count);
+        //Use a function to help determine if character is part of the string
+        //foreach (string item in randomListItem)
+        //{
+
+        //}
+        
     }
 }
 
