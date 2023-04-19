@@ -1,24 +1,27 @@
 ﻿<Properties StartupConfiguration="{88E0C31D-266D-4DF9-82BD-C3469D8D85C6}|Default">
   <MonoDevelop.Ide.ItemProperties.Hangman PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Hangman/Program.cs">
     <Files>
-      <File FileName="Hangman/Program.cs" Line="41" Column="55" />
+      <File FileName="Hangman/Program.cs" Line="33" Column="36" />
       <File FileName="../../HiLoGuessing/HiLoGuessing/Program.cs" Line="1" Column="1" />
+      <File FileName="../../ReverseString/ReverseString/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Hangman" expanded="True">
-            <Node name="Hangman" expanded="True" />
+            <Node name="Hangman" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

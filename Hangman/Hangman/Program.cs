@@ -18,12 +18,12 @@ class Program
 
         while (true)
         {
-            Console.WriteLine($"Guess a letter. You have made # incorrect guesses. Only # wrong guesses remaining."); //Needs variables to track number of guesses left.
-            string userInputString = Console.ReadLine().ToLower();
-            char guessedLetter = Convert.ToChar(userInputString);
 
             for (int charIndex = 0; charIndex < secretWord.Length; charIndex++)
             {
+                Console.WriteLine($"Guess a letter. You have made # incorrect guesses. Only # wrong guesses remaining."); //Needs variables to track number of guesses left.
+                string userInputString = Console.ReadLine().ToLower();
+                char guessedLetter = Convert.ToChar(userInputString);
                 if (secretWord[charIndex] == guessedLetter)
                 {
                     blankWordArray[charIndex] = guessedLetter;
@@ -32,13 +32,9 @@ class Program
                 if (secretWord == Convert.ToString(blankWordArray))
                 {
                     Console.WriteLine("You win!");
-                    break;
                 }
 
             }
-
-           
         }
-
     }
 }
